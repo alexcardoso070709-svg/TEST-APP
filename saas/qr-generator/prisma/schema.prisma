@@ -1,0 +1,53 @@
+// Prisma schema for the QR code SaaS MVP.
+//
+// Local development uses SQLite (zero-config, file-based).
+// For production, switch the datasource to PostgreSQL (see README.md,
+// section "Deployment"): change provider to "postgresql" and set
+// DATABASE_URL to a Postgres connection string (e.g. from Railway).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  passwordHash String
+  name         String?
+  plan         String    @default("free") // "free" | "pro"
+  stripeCustomerId     String? @unique
+  stripeSubscriptionId String?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  qrCodes      QrCode[]
+}
+
+model QrCode {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String?
+  targetUrl   String
+  color       String   @default("#000000")
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  scans       Scan[]
+
+  @@index([userId])
+}
+
+model Scan {
+  id        String   @id @default(cuid())
+  qrCodeId  String
+  qrCode    QrCode   @relation(fields: [qrCodeId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@index([qrCodeId])
+  @@index([createdAt])
+}
