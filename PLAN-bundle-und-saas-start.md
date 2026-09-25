@@ -123,6 +123,54 @@ Einordnung: Laut Marktdaten bleiben ca. 70 % aller Micro-SaaS-Produkte dauerhaft
 - **Größtes Risiko:** kein Vertriebskanal mit echter Reichweite vorhanden → beide Produkte bauen sich, verkaufen sich aber nicht. Gegenmaßnahme: Go/No-Go-Kriterium aus Phase 1 ernst nehmen, nicht vorzeitig in Phase 2 investieren.
 - **SaaS-spezifisch:** QR-Code-Nische hat Wettbewerb (Bitly, QR-Code-Monkey etc.) — Differenzierung nur über Preis und Einfachheit, kein starker Moat. Bei ausbleibendem Wachstum nach Tag 60 Kurswechsel prüfen (z. B. Wechsel zu Link-Kürzer aus Rang 4 der Liste).
 
+---
+
+## Positionierung: professionell, günstig, hohes Volumen
+
+Strategie: Auftritt (Design, Copy, Landingpage) auf Augenhöhe mit etablierten Playern — kein "Hobby-Projekt"-Look. Preis bewusst 40–70 % unter Bitly & Co., um über Volumen statt Marge pro Kunde zu wachsen.
+
+Kritischer Punkt: Niedrige Preise ziehen erfahrungsgemäß preissensiblere Kunden mit höherer Kündigungsrate an. Gegenmaßnahmen fest einplanen, nicht nachträglich:
+- Jahresabo mit Rabatt als Hauptangebot (z. B. 39 EUR/Jahr statt 5 EUR/Monat = 60 EUR/Jahr) — bindet Cashflow früher, senkt Churn-Wirkung.
+- Support bleibt Self-Service (FAQ/Doku, kein 1:1-Support) — Kosten pro Kunde bleiben bei Volumenwachstum flach.
+- Niedriger Preis ja, aber nie "billig wirkend": schwaches Design signalisiert Unseriosität und schreckt eher ab, als dass es Volumen bringt.
+
+## Zielkunden (Personas)
+
+**QR-Code-SaaS:**
+1. Kleine Gastronomiebetriebe — digitale Speisekarte/Tischaufsteller, QR-Ziel änderbar ohne Neudruck.
+2. Solo-Marketer & kleine Agenturen — Kampagnen-Tracking auf Flyern/Postern, brauchen Klick-Statistik.
+3. Event-Organisatoren — Check-in-/Ticket-QR-Codes, saisonal, aber wiederkehrend.
+4. Etsy-/kleine Online-Shop-Betreiber — QR auf Verpackung zu Social-Media/Bewertungsseite.
+5. Freelancer/Kleinunternehmer — Visitenkarten, Rechnungen mit Zahlungslink.
+
+Gemeinsamer Nenner: zu klein für Bitly-Business-Pläne, zu preissensibel für Agentur-Lösungen, aber zahlungswillig für ein poliertes Self-Service-Tool.
+
+**Template-Bundle:**
+1. Freelancer/Solo-Selbstständige im DACH-Raum.
+2. Notion-Power-User-Community (kauft wiederkehrend neue Vorlagen-Bundles).
+3. Kleine Vereine/Ehrenamtliche mit Verwaltungsbedarf.
+
+## 12-Monats-Prognose (Bundle + SaaS kombiniert)
+
+Grundannahme: organisches Wachstum, kein Ad-Budget, professionelle Umsetzung wie oben, Jahresabo-Option ab Monat 1 verfügbar.
+
+| Zeitpunkt | Konservativ | Realistisch | Optimistisch |
+|---|---|---|---|
+| Ende Q1 (Monat 3) | 4 Kunden, ~18 EUR MRR | 8 Kunden, ~35 EUR MRR | 20 Kunden, ~90 EUR MRR |
+| Ende Q2 (Monat 6) | 10 Kunden, ~45 EUR MRR | 20 Kunden, ~90 EUR MRR | 60 Kunden, ~270 EUR MRR |
+| Ende Q3 (Monat 9) | 18 Kunden, ~80 EUR MRR | 40 Kunden, ~180 EUR MRR | 120 Kunden, ~540 EUR MRR |
+| Ende Q4 (Monat 12) | 30 Kunden, ~135 EUR MRR | 70 Kunden, ~320 EUR MRR | 200+ Kunden, ~900 EUR MRR |
+| **SaaS-Umsatz Jahr 1 (kumuliert)** | ~650 EUR | ~1.350 EUR | ~4.500 EUR |
+| **Bundle-Umsatz Jahr 1 (Launch-Spitze + Trickle)** | ~200 EUR | ~400 EUR | ~800 EUR |
+| **Gesamtumsatz Jahr 1** | **~850 EUR** | **~1.750 EUR** | **~5.300 EUR** |
+| Kosten Jahr 1 (Hosting, Domains, Zahlungsgebühren) | ~150 EUR | ~180 EUR | ~350 EUR |
+| **Profit Jahr 1 (vor eigener Arbeitszeit)** | **~700 EUR** | **~1.570 EUR** | **~4.950 EUR** |
+
+Einordnung:
+- Die Marge ist mit ~85–90 % hoch (Software, kaum laufende Kosten) — die absolute Zahl bleibt in allen drei Szenarien ein Nebeneinkommen, kein Gehaltsersatz. Das ist bei 200 EUR Startkapital und null Ad-Budget im ersten Jahr der realistische Rahmen, nicht ein Ausreißer-Erfolg.
+- Das realistische Szenario liegt bewusst deutlich unter dem in der Micro-SaaS-Szene oft zitierten "5.000 EUR MRR"-Beispiel — die Mehrheit der Produkte bleibt darunter, siehe Risiko-Hinweis oben.
+- Größter Hebel für das optimistische Szenario: ein einzelner Distributionserfolg (z. B. ProductHunt Product of the Day, ein viraler Reddit-/HN-Post) verschiebt die Kurve deutlich nach oben — planbar ist das aber nicht, nur vorbereitbar (Landingpage/Onboarding müssen an dem Tag bereits sitzen).
+
 ## Nächster konkreter Schritt (heute)
 
 1. Gumroad- oder Lemon-Squeezy-Account anlegen.
