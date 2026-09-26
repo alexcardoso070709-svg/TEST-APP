@@ -1,7 +1,7 @@
 # Etsy-Listing-Text
 
 ## Titel (max. 140 Zeichen)
-Lebenslauf Vorlage Word | ATS Freundlich CV Template Anschreiben Bewerbung | Digital Download
+Lebenslauf Vorlage Word | Modernes CV Template mit Foto Anschreiben Bewerbung | Digital Download
 
 ## Kategorie
 Papier & Partyartikel > Papierwaren > Digitale Vorlagen (oder: Business & Werbung > Businessvorlagen, je nachdem was beim Anlegen verfügbar ist)
@@ -11,7 +11,7 @@ Papier & Partyartikel > Papierwaren > Digitale Vorlagen (oder: Business & Werbun
 2. cv template
 3. bewerbung
 4. anschreiben
-5. ats freundlich
+5. mit foto
 6. word vorlage
 7. jobsuche
 8. berufseinstieg
@@ -23,11 +23,11 @@ Papier & Partyartikel > Papierwaren > Digitale Vorlagen (oder: Business & Werbun
 
 ## Beschreibung (SEO-Text)
 
-ATS-freundliches Lebenslauf- und Anschreiben-Set als editierbare Word-Vorlage. Sofort als digitaler Download, keine Grafiken oder Tabellen, die Bewerber-Tracking-Systeme falsch auslesen.
+Modernes, hochwertiges Lebenslauf- und Anschreiben-Set als editierbare Word-Vorlage, mit Foto-Platzhalter. Sofort als digitaler Download.
 
 Enthalten:
-✓ Lebenslauf-Vorlage (.docx): Profil, Berufserfahrung, Ausbildung, Kenntnisse
-✓ Anschreiben-Vorlage (.docx): klassischer deutscher Aufbau, 4 geführte Absätze
+✓ Lebenslauf-Vorlage (.docx): Zweispalten-Design mit Foto, Profil, Berufserfahrung, Ausbildung, Kenntnissen
+✓ Anschreiben-Vorlage (.docx): passender Briefkopf-Look, klassischer deutscher Aufbau, 4 geführte Absätze
 ✓ Platzhalter zeigen, wie man Ergebnisse statt Floskeln formuliert
 ✓ Bearbeitbar in Word, Google Docs, LibreOffice
 
@@ -36,7 +36,7 @@ Kein Abo, keine Anmeldung nötig — läuft in Programmen, die ohnehin meist vor
 Hinweis: Digitales Produkt, kein physischer Versand.
 
 ## Preis
-10 EUR
+12 EUR
 
 ## Nächster Schritt
 Nach Etsy-Shop-Eröffnung: Dateien aus `bundle/bewerbungsunterlagen/` hochladen, Cover-Bild aus diesem Ordner verwenden.

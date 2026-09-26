@@ -36,7 +36,7 @@ Stand: 2026-09-26. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 - [ ] Nach ersten 10-20 Verkäufen: Review-Anfrage-Mail tatsächlich verschicken — 0 EUR, Konversions-Hebel laut Recherche
 - [x] Gratis-Lite-Version als Funnel gebaut (Top-1%-Taktik von Easlo, >500.000 USD Notion-Umsatz: kostenlose Version bringt Reichweite, die ins bezahlte Sortiment wechselt) — `bundle/job-search-tracker/00-GRATIS-Lite-Version.md` — 0 EUR
 - [ ] Gratis-Lite-Version auf Gumroad als "Name your price" (Minimum 0 EUR) listen, NICHT auf Etsy (dort keine echten Gratis-Listings möglich) — 0 EUR
-- [x] Lebenslauf + Anschreiben Set gebaut (2 ATS-freundliche Word-Vorlagen, als Ergänzung zum Job-Search-Tracker) — `bundle/bewerbungsunterlagen/` — 0 EUR
+- [x] Lebenslauf + Anschreiben Set gebaut, nach Feedback auf hochwertiges Zweispalten-Design mit Foto-Platzhalter überarbeitet (12 EUR statt 10 EUR, Ergänzung zum Job-Search-Tracker) — `bundle/bewerbungsunterlagen/` — 0 EUR
 - [x] Cover, Gumroad-Listing, Etsy-Listing, Pinterest-Eintrag für Lebenslauf-Set erstellt, Cross-Sell-Verlinkung mit Job-Search-Tracker eingebaut — 0 EUR
 - [ ] Geparkt, bewusst nicht umgesetzt: breiterer "Digital Planner" (Wellness/Habit-Tracking) — andere Zielgruppe als Freelancer, erst nach Validierung der aktuellen Produkte erwägen
 
