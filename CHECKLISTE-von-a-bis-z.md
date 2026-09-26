@@ -1,6 +1,6 @@
 # Checkliste: Freelancer-Bundle + QuickQR SaaS
 
-Stand: 2026-09-25. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, meist weil eigener Account/eigene Identität nötig.
+Stand: 2026-09-26. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, meist weil eigener Account/eigene Identität nötig.
 
 ## A. Recherche & Planung
 
@@ -15,10 +15,21 @@ Stand: 2026-09-25. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 - [x] Excel-Rechner-Set gebaut, Formeln geprüft (0 Fehler) — `bundle/excel-rechner/` — 0 EUR
 - [x] 4 Notion-Vorlagen + Import-Anleitung gebaut — `bundle/notion-vorlagen/` — 0 EUR
 - [x] Verkaufstext für Produktseite geschrieben — `bundle/LISTING.md` — 0 EUR
+- [x] Preis auf Marktdaten-Basis angepasst (19→24 EUR Bundle, 12→14 EUR Einzelprodukte) — 0 EUR
 - [ ] Cover-/Vorschaubilder in Canva erstellen — 0 EUR (Free-Tier reicht)
 - [ ] Gumroad- oder Lemon-Squeezy-Account anlegen — 0 EUR Kontoeröffnung
-- [ ] Produktseite anlegen, Dateien hochladen, Listing-Text einfügen, Preis 19 EUR setzen — 0 EUR, aber Gumroad zieht ~10 %, Lemon Squeezy ~5 % + 0,50 USD pro Verkauf
+- [ ] Produktseite anlegen, Dateien hochladen, Listing-Text einfügen, Preis 24 EUR setzen — 0 EUR, aber Gumroad zieht ~10 %, Lemon Squeezy ~5 % + 0,50 USD pro Verkauf
 - [ ] Bundle launchen: Reddit (r/Notion, r/selbststaendig), IndieHackers, eigenes Netzwerk — 0 EUR, nur Zeit
+
+## B2. Sortiment erweitern (Marktrecherche-Ergebnis: Gumroad/Etsy-Topseller-Kategorien)
+
+- [x] AI-Prompt-Pack gebaut: 40 ChatGPT-Prompts für Freelancer, 5 Kategorien — `bundle/ai-prompt-pack/` — 0 EUR
+- [x] Job-Search-Tracker gebaut: 3 Notion-Vorlagen (Bewerbungs-Tracker, Interview-Vorbereitung, Gehaltsverhandlung) — `bundle/job-search-tracker/` — 0 EUR
+- [x] Etsy-Listing-Text vorbereitet (Titel, 13 Tags, Kategorie, SEO-Beschreibung) — `bundle/etsy-listing.md` — 0 EUR
+- [ ] Etsy-Shop eröffnen (Identität/Zahlungsdaten nötig, wie bei Gumroad/Stripe) — 0 EUR Eröffnung
+- [ ] Alle 3 Produkte (Bundle, Prompt-Pack, Job-Tracker) auf Etsy hochladen — 0,20 USD/Listing + 6,5 % Transaktionsgebühr + ca. 3-4 % Zahlungsgebühr
+- [ ] Prompt-Pack (9 EUR) und Job-Tracker (12 EUR) zusätzlich auf Gumroad/Lemon Squeezy als eigene Produktseiten anlegen — gleiche Gebühren wie Bundle
+- [ ] Geparkt, bewusst nicht umgesetzt: breiterer "Digital Planner" (Wellness/Habit-Tracking) — andere Zielgruppe als Freelancer, erst nach Validierung der aktuellen 3 Produkte erwägen
 
 ## C. QuickQR SaaS bauen
 
@@ -51,8 +62,9 @@ Stand: 2026-09-25. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 ## F. Launch & Auswertung
 
 - [ ] QuickQR launchen: ProductHunt, r/smallbusiness, r/marketing, IndieHackers — 0 EUR, nur Zeit
+- [ ] Bundle + Prompt-Pack + Job-Tracker launchen: Reddit (r/Notion, r/jobs, r/selbststaendig), IndieHackers — 0 EUR, nur Zeit
 - [ ] Go/No-Go nach 14 Tagen prüfen (siehe Plan-Dokument) — 0 EUR
-- [ ] Kennzahlen laufend tracken (Verkäufe, MRR, Kündigungen) — 0 EUR
+- [ ] Kennzahlen laufend tracken (Verkäufe pro Kanal/Produkt, MRR, Kündigungen) — 0 EUR
 
 ## Kostenüberblick (nur Pflichtausgaben, ohne Prozent-Gebühren)
 

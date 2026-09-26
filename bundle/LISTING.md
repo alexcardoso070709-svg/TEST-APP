@@ -4,7 +4,9 @@
 Freelancer-Finanz-Toolkit: Notion-Vorlagen + Excel-Rechner-Set
 
 ## Preis
-19 EUR (Bundle). Einzeln: Notion-Vorlagen 12 EUR, Excel-Rechner-Set 12 EUR.
+24 EUR (Bundle). Einzeln: Notion-Vorlagen 14 EUR, Excel-Rechner-Set 14 EUR.
+
+Preis orientiert an Marktdaten (Gumroad-Notion-Templates verkaufen sich einzeln für 9-29 USD, Bundles 30-47 USD; Etsy-Planer/Templates 8-25 USD) — vorheriger Preis von 19 EUR lag am unteren Rand dieser Spanne.
 
 ## Kurzbeschreibung
 4 Notion-Vorlagen + 3 Excel/Sheets-Rechner für Freelancer und Solo-Selbstständige: Finanzübersicht, Projekt-Tracker, Rechnungs-Log, Steuer-Checkliste, plus Stundensatz-, Break-even- und Steuerrücklage-Rechner. Sofort einsatzbereit, keine Vorkenntnisse nötig.
