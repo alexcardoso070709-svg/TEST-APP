@@ -1,11 +1,11 @@
 import Link from "next/link";
 
 const comparisonRows = [
-  { feature: "Einstiegspreis / Monat", quickqr: "kostenlos (1 QR-Code)", bitly: "ab ca. 8 $" },
-  { feature: "Pro-Plan", quickqr: "4,99 €/Monat oder 39 €/Jahr", bitly: "oft 29–35 $/Monat" },
-  { feature: "Dynamische QR-Codes", quickqr: "ja, unbegrenzt im Pro-Plan", bitly: "ja, limitiert je Plan" },
-  { feature: "Ziel-URL nachträglich änderbar", quickqr: "ja, ohne Neudruck", bitly: "ja" },
-  { feature: "Branding-Farbe", quickqr: "im Pro-Plan enthalten", bitly: "meist nur in teuren Plänen" },
+  { feature: "Einstiegspreis / Monat", quickqr: "kostenlos (1 QR-Code)", markt: "oft ab ca. 8 $" },
+  { feature: "Pro-Plan", quickqr: "4,99 €/Monat oder 39 €/Jahr", markt: "oft 29–35 $/Monat" },
+  { feature: "Dynamische QR-Codes", quickqr: "ja, unbegrenzt im Pro-Plan", markt: "meist ja, limitiert je Plan" },
+  { feature: "Ziel-URL nachträglich änderbar", quickqr: "ja, ohne Neudruck", markt: "meist ja" },
+  { feature: "Branding-Farbe", quickqr: "im Pro-Plan enthalten", markt: "meist nur in teuren Plänen" },
 ];
 
 export default function Home() {
@@ -14,11 +14,11 @@ export default function Home() {
       {/* Hero */}
       <section className="mx-auto w-full max-w-5xl px-6 pb-16 pt-20 text-center">
         <span className="inline-block rounded-full bg-slate-900/5 px-3 py-1 text-xs font-medium text-slate-700">
-          40–70% günstiger als Bitly
+          40–70% günstiger als etablierte Anbieter
         </span>
         <h1 className="mt-6 text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
           Dynamische QR-Codes.
-          <br className="hidden sm:block" /> Ohne Bitly-Preise.
+          <br className="hidden sm:block" /> Ohne Enterprise-Preise.
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-lg text-slate-600">
           Erstelle QR-Codes, deren Ziel-URL du jederzeit änderst — ohne den gedruckten
@@ -84,7 +84,7 @@ export default function Home() {
       <section className="py-16">
         <div className="mx-auto max-w-3xl px-6">
           <h2 className="text-center text-2xl font-semibold text-slate-900">
-            QuickQR vs. Bitly
+            QuickQR im Marktvergleich
           </h2>
           <div className="mt-8 overflow-hidden rounded-lg border border-slate-200 bg-white">
             <table className="w-full text-sm">
@@ -92,7 +92,7 @@ export default function Home() {
                 <tr className="bg-slate-50 text-left text-slate-700">
                   <th className="px-4 py-3 font-medium">Merkmal</th>
                   <th className="px-4 py-3 font-medium">QuickQR</th>
-                  <th className="px-4 py-3 font-medium">Bitly</th>
+                  <th className="px-4 py-3 font-medium">Andere Anbieter</th>
                 </tr>
               </thead>
               <tbody>
@@ -102,15 +102,15 @@ export default function Home() {
                     <td className="px-4 py-3 font-medium text-slate-900">
                       {row.quickqr}
                     </td>
-                    <td className="px-4 py-3 text-slate-500">{row.bitly}</td>
+                    <td className="px-4 py-3 text-slate-500">{row.markt}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
           <p className="mt-3 text-center text-xs text-slate-500">
-            Bitly-Preise: öffentlich kommunizierte Richtwerte, Stand Planungszeitpunkt.
-            Kein offizieller Preisvergleich, zur Einordnung gedacht.
+            Vergleichswerte: öffentlich bekannte Richtpreise am Markt für QR-/Link-Tools,
+            Stand Planungszeitpunkt. Kein Vergleich mit einem bestimmten Anbieter.
           </p>
         </div>
       </section>

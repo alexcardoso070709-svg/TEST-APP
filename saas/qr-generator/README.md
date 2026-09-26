@@ -2,7 +2,7 @@
 
 Ein schlankes SaaS-MVP für dynamische QR-Codes: QR-Code einmal drucken, Ziel-URL
 danach beliebig oft ändern. Positioniert als deutlich günstigere Alternative zu
-Bitly (Free-Plan + 4,99 €/Monat bzw. 39 €/Jahr Pro-Plan).
+etablierten QR-/Link-Tools (Free-Plan + 4,99 €/Monat bzw. 39 €/Jahr Pro-Plan).
 
 ## Funktionsumfang (MVP)
 
@@ -19,7 +19,7 @@ Bitly (Free-Plan + 4,99 €/Monat bzw. 39 €/Jahr Pro-Plan).
 - Scan-Statistik pro QR-Code: Gesamtzahl + Liste der Scans der letzten 7 Tage.
 - Statische Pricing-Seite (Free vs. Pro) mit vorbereitetem Stripe-Checkout
   (Testmodus-Grundgerüst, siehe Abschnitt Stripe unten).
-- Landingpage mit Vergleich "günstiger als Bitly".
+- Landingpage mit Preisvergleich zum Markt, ohne einzelnen Anbieter namentlich zu nennen.
 
 **Bewusst nicht enthalten** (MVP-Scope): E-Mail-Versand/-Verifizierung,
 Passwort-Reset, Admin-Panel, Teams/Multi-User-Workspaces.

@@ -79,7 +79,7 @@ Einordnung: Schon das konservative Szenario deckt die Kosten von Phase 1 und lie
 - Bewusst deutlich unter Bitly Premium (das oft ab 8–35 $/Monat beginnt) positioniert.
 
 **Tag 15–17: Landingpage + Launch**
-- Landingpage mit klarem Vergleich "günstiger als Bitly", Demo-QR-Code direkt einbindbar.
+- Landingpage mit klarem Preisvergleich zum Markt (ohne einzelnen Anbieter namentlich zu nennen — vergleichende Werbung mit Namensnennung ist zwar nach §6 UWG grundsätzlich zulässig, aber das Abmahnrisiko durch größere Wettbewerber lohnt sich für einen Solo-Start nicht), Demo-QR-Code direkt einbindbar.
 - Launch-Kanäle: ProductHunt (kostenlos), r/smallbusiness, r/marketing, IndieHackers, Twitter/X Build-in-Public-Posts.
 
 **Tag 18–30: Iterieren**

@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "QuickQR — Dynamische QR-Codes, günstiger als Bitly",
+  title: "QuickQR — Dynamische QR-Codes, günstig & einfach",
   description:
-    "Dynamische QR-Codes mit Branding und Scan-Tracking. Ziel-URL jederzeit änderbar, ohne den gedruckten Code neu zu drucken. 40–70% günstiger als Bitly.",
+    "Dynamische QR-Codes mit Branding und Scan-Tracking. Ziel-URL jederzeit änderbar, ohne den gedruckten Code neu zu drucken. 40–70% günstiger als etablierte Anbieter.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -7,7 +7,7 @@ export default function PricingPage() {
       <div className="mx-auto w-full max-w-4xl text-center">
         <h1 className="text-3xl font-bold text-slate-900">Einfache, faire Preise</h1>
         <p className="mt-2 text-slate-600">
-          Bewusst 40–70% günstiger als Bitly. Kein verstecktes Kleingedrucktes.
+          Bewusst 40–70% günstiger als etablierte Anbieter. Kein verstecktes Kleingedrucktes.
         </p>
       </div>
 
