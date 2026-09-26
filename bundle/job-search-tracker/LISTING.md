@@ -19,6 +19,8 @@ Job-Search-Tracker: Notion-Vorlage für Bewerbung, Interview & Gehaltsverhandlun
 ## Für wen
 Berufseinsteiger, Fach- und Führungskräfte im Jobwechsel sowie alle, die sich aktiv bewerben und den Überblick über mehrere parallele Bewerbungsprozesse behalten wollen – ohne Excel-Chaos oder Zettelwirtschaft.
 
+**Passt perfekt zum Lebenslauf + Anschreiben Set** (separates Produkt): dieses Set für den Überblick, das andere für die eigentlichen Bewerbungsunterlagen.
+
 ## Warum diese Vorlage
 Eine strukturierte Jobsuche verkürzt den Prozess spürbar: Follow-ups werden nicht vergessen, Interviews sind besser vorbereitet, und in der Gehaltsverhandlung argumentierst du mit echten Marktdaten statt aus dem Bauch heraus. Einmaliger Kauf, läuft im kostenlosen Notion-Plan, keine Anmeldung bei einem weiteren Tool nötig.
 

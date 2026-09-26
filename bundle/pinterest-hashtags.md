@@ -60,6 +60,19 @@ Das Komplett-Paket für Freelancer und Selbstständige: Finanz-Toolkit mit Notio
 
 ---
 
+## 5. Lebenslauf + Anschreiben Set
+
+**Pin-Titel:**
+Lebenslauf & Anschreiben Vorlage Word: ATS-freundlich, sofort ausfüllbar
+
+**Pin-Beschreibung:**
+ATS-freundliches Lebenslauf- und Anschreiben-Set als editierbare Word-Vorlage. Keine Grafiken oder Tabellen, die Bewerber-Tracking-Systeme falsch auslesen — klare Struktur mit Platzhaltern, die zeigen, wie man Ergebnisse statt Floskeln formuliert. Perfekt in Kombination mit einem Bewerbungs-Tracker für den vollen Überblick über die Jobsuche.
+
+**Hashtags:**
+#lebenslaufvorlage #cvtemplate #resumetemplate #bewerbung #jobsuche #atsresume #karriere #bewerbungsunterlagen #wordvorlage #berufseinstieg
+
+---
+
 ## Praxis-Tipps zur Umsetzung
 
 - Neues Pinterest-Board pro Produkt anlegen (z. B. "Freelancer Finanzen", "ChatGPT Prompts", "Jobsuche Notion"), zusätzlich ein Sammel-Board für alle Freelancer-Themen.

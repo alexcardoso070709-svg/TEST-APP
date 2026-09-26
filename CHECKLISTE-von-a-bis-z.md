@@ -30,14 +30,15 @@ Stand: 2026-09-26. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 - [x] Cover + Thumbnail für Prompt-Pack, Job-Tracker, Bundle-Paket erstellt — 0 EUR
 - [x] Mega-Bundle "Freelancer-Erfolgspaket" gebaut (alle 3 Produkte, 29 EUR statt 45 EUR einzeln — Top-Seller-Taktik: Bündelung statt nur Einzelprodukte) — `bundle/freelancer-erfolgspaket/` — 0 EUR
 - [ ] Etsy-Shop eröffnen (Identität/Zahlungsdaten nötig, wie bei Gumroad/Stripe) — 0 EUR Eröffnung
-- [ ] Alle 4 Produkte (Bundle, Prompt-Pack, Job-Tracker, Erfolgspaket) auf Etsy hochladen — 0,20 USD/Listing + 6,5 % Transaktionsgebühr + ca. 3-4 % Zahlungsgebühr
-- [ ] Alle 4 Produkte auf Gumroad/Lemon Squeezy als eigene Produktseiten anlegen — gleiche Gebühren wie Bundle
+- [ ] Alle 5 Produkte (Bundle, Prompt-Pack, Job-Tracker, Erfolgspaket, Lebenslauf-Set) auf Etsy hochladen — 0,20 USD/Listing + 6,5 % Transaktionsgebühr + ca. 3-4 % Zahlungsgebühr
+- [ ] Alle 5 Produkte auf Gumroad/Lemon Squeezy als eigene Produktseiten anlegen — gleiche Gebühren wie Bundle
 - [x] Review-Anfrage-E-Mail-Vorlage vorbereitet (Lang-/Kurzversion) — `bundle/review-anfrage-vorlage.md` — 0 EUR
 - [ ] Nach ersten 10-20 Verkäufen: Review-Anfrage-Mail tatsächlich verschicken — 0 EUR, Konversions-Hebel laut Recherche
 - [x] Gratis-Lite-Version als Funnel gebaut (Top-1%-Taktik von Easlo, >500.000 USD Notion-Umsatz: kostenlose Version bringt Reichweite, die ins bezahlte Sortiment wechselt) — `bundle/job-search-tracker/00-GRATIS-Lite-Version.md` — 0 EUR
 - [ ] Gratis-Lite-Version auf Gumroad als "Name your price" (Minimum 0 EUR) listen, NICHT auf Etsy (dort keine echten Gratis-Listings möglich) — 0 EUR
+- [x] Lebenslauf + Anschreiben Set gebaut (2 ATS-freundliche Word-Vorlagen, als Ergänzung zum Job-Search-Tracker) — `bundle/bewerbungsunterlagen/` — 0 EUR
+- [x] Cover, Gumroad-Listing, Etsy-Listing, Pinterest-Eintrag für Lebenslauf-Set erstellt, Cross-Sell-Verlinkung mit Job-Search-Tracker eingebaut — 0 EUR
 - [ ] Geparkt, bewusst nicht umgesetzt: breiterer "Digital Planner" (Wellness/Habit-Tracking) — andere Zielgruppe als Freelancer, erst nach Validierung der aktuellen Produkte erwägen
-- [ ] Geparkt, zur Prüfung vorgeschlagen: CV/Lebenslauf-Vorlage als Ergänzung zum Job-Search-Tracker (siehe Empfehlung im Chat) — noch nicht gebaut, wartet auf dein Go
 
 ## C. QuickQR SaaS bauen
 
@@ -70,7 +71,7 @@ Stand: 2026-09-26. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 ## F. Launch & Auswertung
 
 - [ ] QuickQR launchen: ProductHunt, r/smallbusiness, r/marketing, IndieHackers — 0 EUR, nur Zeit
-- [ ] Bundle + Prompt-Pack + Job-Tracker + Erfolgspaket launchen: Reddit (r/Notion, r/jobs, r/selbststaendig), IndieHackers — 0 EUR, nur Zeit
+- [ ] Bundle + Prompt-Pack + Job-Tracker + Erfolgspaket + Lebenslauf-Set launchen: Reddit (r/Notion, r/jobs, r/selbststaendig), IndieHackers — 0 EUR, nur Zeit
 - [ ] Go/No-Go nach 14 Tagen prüfen (siehe Plan-Dokument) — 0 EUR
 - [ ] Kennzahlen laufend tracken (Verkäufe pro Kanal/Produkt, MRR, Kündigungen) — 0 EUR
 
@@ -78,7 +79,7 @@ Stand: 2026-09-26. [x] = bereits erledigt in diesem Repo. [ ] = noch zu tun, mei
 
 Recherche-Ergebnis: kein Werbebudget nötig, um zu starten. Bezahlte Werbung erst NACH organischem Nachweis sinnvoll — vorher zahlt man nur für ungetestete Listings.
 
-- [x] Pinterest-Pin-Texte + Hashtags für alle 4 Produkte vorbereitet (Titel, Beschreibung, 8-10 Hashtags je Produkt) — `bundle/pinterest-hashtags.md` — 0 EUR (wichtigster kostenloser Kanal für Etsy/Gumroad-Digitalprodukte laut Recherche, braucht aber 3-6 Monate Anlauf, 5-10 Pins/Woche konsequent statt viele auf einmal)
+- [x] Pinterest-Pin-Texte + Hashtags für alle 5 Produkte vorbereitet (Titel, Beschreibung, 8-10 Hashtags je Produkt) — `bundle/pinterest-hashtags.md` — 0 EUR (wichtigster kostenloser Kanal für Etsy/Gumroad-Digitalprodukte laut Recherche, braucht aber 3-6 Monate Anlauf, 5-10 Pins/Woche konsequent statt viele auf einmal)
 - [ ] Pinterest-Business-Account anlegen, ab Launch wöchentlich 5-10 Pins posten — 0 EUR, nur Zeit
 - [ ] Etsy Ads: NICHT sofort aktivieren. Erst wenn ein Listing organisch bei 4-5%+ Konversion läuft, dann 1-3 USD/Tag testen (Etsy-Empfehlung: 3-5 USD/Tag für aussagekräftige Daten). Nur weiterlaufen lassen, wenn ROAS > 3x — sonst abschalten
 - [ ] Kein Budget für Gumroad reservieren — dort gibt es kein Ads-System, Distribution läuft über eigene Kanäle (Reddit/Pinterest/Twitter) und Gumroad-interne Discover-Platzierung (kostenlos, algorithmisch)
@@ -95,6 +96,6 @@ Recherche-Ergebnis: kein Werbebudget nötig, um zu starten. Bezahlte Werbung ers
 | Rechtstexte (per Generator) | 0 EUR |
 | **Summe bis zum Live-Gang** | **ca. 40–75 EUR von 200 EUR Budget** |
 
-Laufende Gebühren (keine Fixkosten, nur bei tatsächlichem Umsatz): Gumroad/Lemon Squeezy ~5–10 % pro Verkauf (alle 4 Produkte, kein Aufpreis für mehr Produkte), Etsy ~10-11 % gesamt (Transaktion+Zahlung) + 0,20 USD/Listing, Stripe ~1,5 % + 0,25 EUR pro Zahlung.
+Laufende Gebühren (keine Fixkosten, nur bei tatsächlichem Umsatz): Gumroad/Lemon Squeezy ~5–10 % pro Verkauf (alle 5 Produkte, kein Aufpreis für mehr Produkte), Etsy ~10-11 % gesamt (Transaktion+Zahlung) + 0,20 USD/Listing, Stripe ~1,5 % + 0,25 EUR pro Zahlung.
 
 Marketing: 0 EUR Pflichtbudget (siehe Abschnitt G). Optionaler Etsy-Ads-Test später: 30-50 EUR aus dem bestehenden Budget, erst nach organischem Verkaufsnachweis.
